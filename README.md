@@ -1,2 +1,2 @@
 # proton
-personal website
+Chess website
